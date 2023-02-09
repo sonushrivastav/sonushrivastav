@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonu Shrivastav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Software Developer Engineer (Reactjs|Expressjs|Nodejs|Javascript)</h3>
 
 - 🌱 I’m currently learning **Reactjs, Nodejs, Expressjs, Mysql, Sequelize, Javascript, css, Npm, Git,**
 
