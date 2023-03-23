@@ -1,7 +1,29 @@
 ![Sonu Banner](https://www.michaelpage.co.in/sites/michaelpage.co.in/files/2022-05/Software%20Developer.jpg)
 
 # 💫 About Me:
-I'm Currently working as Software Developer Engineer<br>I have 1 years + experience in Software Development<br>Technical skills for  development as follows:<br>ReactJs , NodeJs, Javascript, HTML, CSS, RESTApi, GIT,Github<br>
+I'm Currently working as Software Developer Engineer<br>I have 1 years + experience in Software Development<br>Technical skills for  development as follows:<br>Software Developer Engineer . 
+Quick learner, 
+Problem solver,
+ Logical approach,
+Hustler,
+communication 
+
+
+1. Build frontend component using Reactjs, css, tailwindcss, javascript
+
+2. Also working in Backend development to provide good user experience and scalability of application 
+
+3. used dozens of tools and technology to understand the process of software development 
+
+4.Frontend : Html, CSS, Tailwind Css, Typescript, Reactjs, Next Js,
+ 
+5.Backend : Nodejs, Express Js, javascript, 
+
+6.Database : Firebase, Mongodb,Mysql,Redis,
+
+7. Cloud-service : AWS, Docker, Nginx etc.
+
+8. Other technologies leverage : Git, Redux, Npm , Restful Api,OOP,  SOLID PRINCIPAL, MVC Pattern<br>
 
 
 ## 🌐 Socials:
