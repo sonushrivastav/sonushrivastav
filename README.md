@@ -5,11 +5,11 @@ I'm Currently working as Software Developer Engineer<br>I have 1 years + experie
 <br>
 Key Skills and Tech Stack for Software Development
 
-1. Build frontend component using Reactjs, css, tailwindcss, javascript
+1.Build frontend component using Reactjs, css, tailwindcss, javascript
 
-2. Also working in Backend development to provide good user experience and scalability of application 
+2.Also working in Backend development to provide good user experience and scalability of application 
 
-3. used dozens of tools and technology to understand the process of software development 
+3.used dozens of tools and technology to understand the process of software development 
 
 4.Frontend : Html, CSS, Tailwind Css, Typescript, Reactjs, Next Js,
  
