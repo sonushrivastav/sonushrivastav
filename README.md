@@ -1,27 +1,21 @@
 ![Sonu Banner](https://www.michaelpage.co.in/sites/michaelpage.co.in/files/2022-05/Software%20Developer.jpg)
 
 # 💫 About Me:
-I'm Currently working as Software Developer Engineer<br>I have 1.5 years + experience in Software Development
+I'm Currently working as Software Developer Engineer<br>I have 1.8 years + experience in Software Development
 <br>
 Skills and Tech Stack 
  
-Software Engineer (Reactjs | Nodejs | Javascript | Docker| MongoDB| DSA )
+Software Engineer (Reactjs | Nodejs | Javascript | MongoDB )
 
-1.Build frontend component using Reactjs, css, tailwindcss, javascript
+As a passionate Software developer Engineer (Reactjs | Nodejs | Mongodb | Javascript) with 1.8 years of hands-on experience, I bring a strong foundation in modern web development technologies and best practices.
 
-2.Also working in Backend development to provide good user experience and scalability of application 
+My technical skills encompass a wide range, including proficiency in ReactJS, Next.js, JavaScript, HTML5, CSS3, Node.js, MongoDB, and Git. I have a proven track record of working with RESTful APIs, seamlessly integrating third-party libraries, and optimizing web application performance.
 
-3.used dozens of tools and technology to understand the process of software development 
+In my previous project, I successfully implemented AWS Simple Email Service (SES) with a Node.js backend, enhancing our communication capabilities. Additionally, I've honed my development skills by embracing the principles of DRY (Don't Repeat Yourself) and adhering to SOLID design principles, following MVC (Model-View-Controller) patterns to ensure clean and maintainable code.
 
-4.Frontend : Html, CSS, Tailwind Css, Typescript, Reactjs, Next Js,
- 
-5.Backend : Nodejs, Express Js, javascript, 
+As a dedicated developer, I have an insatiable appetite for learning. I stay up-to-date with the latest trends and best practices in web development, always seeking opportunities for growth and improvement.
 
-6.Database : Firebase, Mongodb,Mysql,Redis,
-
-7.Cloud-service : AWS, Docker, Nginx etc.
-
-8.Other technologies leverage : Git, Redux, Npm , Restful Api,OOP,  SOLID PRINCIPAL, MVC Pattern<br>
+Currently, I am actively expanding my skill set to include Cloud-native services on AWS, exploring DevOps methodologies, and mastering CI/CD pipelines using GitHub Actions, among other exciting endeavors.<br>
 
 
 ## 🌐 Socials:
