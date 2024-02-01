@@ -1,7 +1,7 @@
 ![Sonu Banner](https://www.michaelpage.co.in/sites/michaelpage.co.in/files/2022-05/Software%20Developer.jpg)
 
 # 💫 About Me:
-I'm Currently working as Software Developer Engineer<br>I have 1.8 years + experience in Software Development
+I'm Currently working as Software Developer Engineer<br>I have 2 years + experience in Software Development
 <br>
 Skills and Tech Stack 
  
